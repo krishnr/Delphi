@@ -1,1 +1,1 @@
-SYDE 522 Machine Intelligence Project
+# SYDE 522 Machine Intelligence Project
