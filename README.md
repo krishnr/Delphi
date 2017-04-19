@@ -1,1 +1,2 @@
-# SYDE 522 Machine Intelligence Project
+# Delphi: Predicting Startup Success
+## SYDE 522 Machine Intelligence Project
